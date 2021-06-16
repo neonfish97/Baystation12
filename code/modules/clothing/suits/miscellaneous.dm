@@ -503,6 +503,13 @@
 	icon_open = "trackjackettcc_open"
 	icon_closed = "trackjackettcc"
 
+/obj/item/clothing/suit/storage/toggle/track/zipper
+    name = "Zip up sweater"
+    desc = "A zip up sweater for those who want to be slightly warm and stylish."
+    icon_state = "zipperjacket"
+    icon_open = "zipperjacket_open"
+    icon_closed = "zipperjacket"
+
 /obj/item/clothing/suit/rubber
 	name = "human suit"
 	desc = "A Human suit made out of rubber."
@@ -538,3 +545,8 @@
 
 /obj/item/clothing/suit/hospital/pink
 	color = "#ffb7db"
+
+/obj/item/clothing/suit/pullover
+    name = "Pull over"
+    desc = "A warm pull over sweater made with work in mind."
+    icon_state = "pullover"

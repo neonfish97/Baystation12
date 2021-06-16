@@ -123,3 +123,11 @@
 	path = /obj/item/clothing/suit/storage/toggle/agent_jacket
 	allowed_roles = list(/datum/job/detective)
 	allowed_branches = list(/datum/mil_branch/solgov)
+
+/datum/gear/suit/pullover
+    display_name = "Pull over"
+    path = /obj/item/clothing/suit/pullover
+
+/datum/gear/suit/zipper
+    display_name = "Jacket, zipper"
+    path = /obj/item/clothing/suit/storage/toggle/track/zipper
